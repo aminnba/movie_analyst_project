@@ -40,7 +40,7 @@ requirements.txt
 
 ### 3.1 Key Tasks
 - Convert dates → datetime  
-- Parse genres, cast, countries  
+- Parse genres, cast, and countries  
 - Fix invalid budgets (huge ROI distortion)  
 - Handle missing & zero budgets/revenue  
 - Add quality flags:
@@ -128,7 +128,7 @@ Key patterns:
 - Critic scores declined (68 → 48)
 - Budgets increased steadily (3–4 × 10⁷ USD)
 - Revenue increased slightly
-- Dataset ends in 2015, explaining consistent end-year peak
+  
 
 ## 8. My Analytical Takeaways (Personal Perspective)
 
@@ -137,10 +137,10 @@ This project helped me think more like an analyst:
 - I learned to clean *before* analyzing.
 - I saw how much outliers can mislead conclusions.
 - I learned to evaluate what the data can and cannot answer.
-- Adding a second dataset was not a convenience — it was necessary to answer critic-related questions properly.
+- Adding a second dataset was not a convenience, it was necessary to answer critic-related questions properly.
 - I realized interpretation matters as much as code.
 
-This workflow reflects the mindset I’m developing:
+This workflow reflects my growth when it comes to working with data:
 **ask a clear question → validate data → analyze → interpret responsibly.**
 
 ## 9. Reproducibility
