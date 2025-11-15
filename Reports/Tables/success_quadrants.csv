@@ -1,0 +1,5 @@
+quadrant,avg_roi,median_roi,avg_mc,movie_count
+High ROI • High Critic,24.16,2.48,69.7,735
+High ROI • Low Critic,4.63,1.84,39.05,523
+Low ROI • High Critic,-0.42,-0.47,66.8,553
+Low ROI • Low Critic,-0.43,-0.5,37.52,705
